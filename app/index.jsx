@@ -5,7 +5,6 @@ import { images } from "../constants";
 import CustomButton from "../components/CustomButton";
 import { StatusBar } from "expo-status-bar";
 import { Provider, useSelector } from "react-redux";
-import store from "./(redux)/store";
 export default function App() {
   const { agent, loading } = useSelector((state) => state.agentauth);
   if (!loading && agent) return <Redirect href="/home" />;
