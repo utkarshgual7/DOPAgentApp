@@ -8,6 +8,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
+  "author": "utkarshgual",
+  "description": "Application for indiapost postman made by utkarsh gual github.com/utkarshgual7",
   "dependencies": {
     "@react-native-async-storage/async-storage": "^2.0.0",
     "@react-native-community/datetimepicker": "^8.2.0",
