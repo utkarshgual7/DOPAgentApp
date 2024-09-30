@@ -19,6 +19,8 @@ Real-time updates and tracking of assigned deliveries, allowing postmen to manag
 Works with the AI-powered system to manage deliveries based on time slots customized for the recipient's availability.
 🛠️ User-Friendly Interface:
 
-An intuitive and simple interface designed to help postmen manage deliveries effortlessly.
-🚀 Project Purpose
+An intuitive and simple interface designed to help postmen manage deliveries effortlessly.  
+
+🚀 Project Purpose  
+
 This app supports the AI-based delivery system initiated by the Department of Post, Ministry of Communication, Government of India, enhancing the efficiency and reliability of parcel delivery services. The system ensures that deliveries are optimized based on modern customer lifestyles, and this app is a vital tool for postmen to meet those expectations.
